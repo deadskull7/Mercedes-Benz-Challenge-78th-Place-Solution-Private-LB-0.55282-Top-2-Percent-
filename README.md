@@ -6,7 +6,7 @@ In this competition, Daimler is challenging Kagglers to tackle the curse of dime
 
 I have used various methods and techniques to reach this place on the private leaderboard. Actually, most of it is an art. Considerable feature engineering, transformations, redundancy, duplicate features, feature count of 378, so less rows that model could overfit easily ,inconsistent categories in training and test set and many more.....This dataset was something real to work on. And more than that anonymous features to engineer, that was a whole lot different thing to come across. Still after making around 64 different versions of my script I was able to come to top 2%.
 
-# License
+# License 
 MIT License
 ```
 Copyright (c) 2018 Rohit Verma
